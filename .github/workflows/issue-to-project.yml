@@ -14,4 +14,4 @@ jobs:
         with:
           project-url: https://github.com/orgs/ejpgames/projects/3
           github-token: ${{ secrets.MY_GITHUB_TOKEN }}
-          labeled: Backlog
+          labeled: '📝  Backlog'
